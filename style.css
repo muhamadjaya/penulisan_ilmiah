@@ -1,0 +1,22 @@
+.navbar-nav a:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.navbar a {
+  padding: right 5px !important;
+}
+
+section {
+  min-height: 420px;
+}
+
+.jumbotron {
+  max-height: 500px;
+  background-image: url(img/hero/danau.jpeg);
+  background-size: cover;
+  background-position: 0 -210px;
+  border-top: 5px solid salmon;
+  border-bottom: 5px solid lightskyblue;
+}
+
